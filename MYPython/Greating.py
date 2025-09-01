@@ -1,3 +1,2 @@
-print("Good morning 1")
-print("Good afternoon 2")
-print("Good evening")
+print("Good morning")
+print("Good afternoon2")
